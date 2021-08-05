@@ -1,0 +1,2 @@
+# tamagotchi
+your electronic pet
